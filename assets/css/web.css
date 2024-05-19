@@ -1,0 +1,16 @@
+.row{
+    height: 100%;
+    width: 100%;
+    background-color:aliceblue ;
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col{
+    height:200px ;
+    width: 1000px;
+    margin:20px ;
+    border: 1px solid black;
+}

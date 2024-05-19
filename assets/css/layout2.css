@@ -29,7 +29,7 @@ section{
     justify-content: space-evenly;
     display: flex;
     flex-wrap: wrap;
-    padding: 0%;
+    
     
     
 }
@@ -37,7 +37,7 @@ section{
     width: 320px;
     height: 200px;
     margin: 10px;
-    border: 1px solid black;
+    border-radius: 1px;
     
 }
 
@@ -65,5 +65,8 @@ section{
     height: 200px;
     margin: 10px;
     border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 2px;
+
     
 }
